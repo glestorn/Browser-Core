@@ -1,0 +1,17 @@
+<h1>How finish term in university successfully</h1>
+<p>It's very easy if you don't procrastinate and do all labs in time</p>
+<em>And, yeah. It'll be very difficult</em>
+<h2>What can you do:</h2>
+<ul>
+	<li>Come to lectures</li>
+	<li>Make all labs in time</li>
+	<li>Sit a lot of time doing labs</li>
+</ul>
+<h2>Rating of difficultnes of subjects:</h2>
+<ol>
+	<li>APK</li>
+	<li>SPOVM</li>
+	<li>Assembly</li>
+	<li>Math statistic</li>
+	<li>Circuit</li>
+</ol>
